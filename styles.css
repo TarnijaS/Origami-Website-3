@@ -1,0 +1,41 @@
+h1 {color:bisque;
+    padding-left:30px}
+
+.div{
+    background-color: purple;
+    display:flex;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+} 
+.grid img{
+    border-radius: 50px;
+    border: 2px solid blueviolet
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+
+    padding: 30px;
+    margin: 25px;
+
+    width:310px;
+    font-family:cursive;
+}
+
+body{
+margin: 0px;
+background-color: deeppink;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:crimson;
+    padding: 15px;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 400;
+    color:darkslategrey;
+}
